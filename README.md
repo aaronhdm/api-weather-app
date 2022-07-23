@@ -25,6 +25,6 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
-Preview
+Finished Product Preview
 
 ![API WEATHER APP](https://user-images.githubusercontent.com/107087837/180620411-734e7e29-b0bf-4418-bc58-dd00272ce7d5.png)
