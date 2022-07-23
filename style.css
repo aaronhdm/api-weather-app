@@ -1,0 +1,95 @@
+/* CSS Styling for Entire Page */
+.center {
+    text-align: center;
+}
+
+.header {
+    background-color: black;
+    color: white;
+    padding: .75rem 0;
+    margin-bottom: .5rem;
+}
+
+.full-size {
+    width: 100%;
+}
+
+#search-city-btn{
+    margin-top: 15px;
+    background-color: black;
+    color: white;
+}
+
+#created-cities-container button {
+    background-color: black;
+    color: white;
+}
+
+#test {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to right, black, goldenrod);
+    color: white;
+}
+
+.current-weather-container {
+    display: none;
+}
+
+#search-bar {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    border: none;
+}
+
+#saved-button {
+    border-radius: 5px;
+    border: none;
+    width: 100%;
+    padding: 5px 0;
+    margin: 5px 0;
+}
+
+.future-card {
+    background-image: linear-gradient(to right, black, goldenrod);
+    color: white;
+    width: 20%; 
+    margin: 10px auto;
+    padding-left: 15px;
+}
+
+#future-forecast-container {
+    width: 100%;
+}
+
+#low {
+    background-color: green;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-size: small;
+}
+
+#moderate {
+    background-color: orange;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-size: small;
+}
+
+#high {
+    background-color: red;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-size: small;
+}
+
+#extreme {
+    background-color: purple;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-size: small;
+}
